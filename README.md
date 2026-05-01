@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Introdução
+## Introdução
 
 A exploração espacial exige sistemas altamente confiáveis, capazes de tomar decisões críticas em ambientes extremos. No contexto da missão Aurora Siger, o Módulo de Gerenciamento de Pouso e Estabilização de Base (MGPEB) tem como função central organizar o fluxo de módulos que chegam à superfície marciana, garantindo segurança, eficiência e continuidade operacional da colônia.
 
@@ -12,7 +12,7 @@ Este documento apresenta a fundamentação teórica e conceitual necessária par
 
 ---
 
-## 🧩 1. Modelagem do Cenário de Pouso
+## 1. Modelagem do Cenário de Pouso
 
 Em uma colônia em fase inicial, diferentes tipos de módulos desempenham papéis essenciais para a sobrevivência e expansão da base. Entre eles, destacam-se módulos de habitação, geração de energia, suporte médico, logística e pesquisa científica.
 

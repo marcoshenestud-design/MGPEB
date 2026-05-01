@@ -24,7 +24,7 @@ Essa organização reflete um cenário real de controle de tráfego, no qual mú
 
 ---
 
-## 🧠 2. Regras de Decisão e Lógica Booleana
+## 2. Regras de Decisão e Lógica Booleana
 
 A autorização de pouso depende da análise simultânea de múltiplas condições críticas. Entre os fatores mais relevantes estão o nível de combustível, as condições atmosféricas, a disponibilidade da área de pouso e a integridade dos sistemas do módulo.
 
@@ -36,7 +36,7 @@ A representação dessas regras por meio de diagramas de portas lógicas permite
 
 ---
 
-## 💻 3. Estruturas Computacionais e Organização dos Dados
+## 3. Estruturas Computacionais e Organização dos Dados
 
 A escolha das estruturas de dados influencia diretamente a eficiência do sistema. A fila é adequada para gerenciar módulos em ordem de chegada, garantindo previsibilidade. No entanto, situações críticas podem exigir reordenação com base em prioridade ou nível de combustível.
 
@@ -46,7 +46,7 @@ Além disso, o uso de listas para armazenar módulos já processados ou em situa
 
 ---
 
-## 📊 4. Modelagem Matemática Aplicada
+## 4. Modelagem Matemática Aplicada
 
 A modelagem matemática permite representar fenômenos físicos relevantes para o pouso. Um exemplo importante é o consumo de combustível ao longo do tempo de descida, que pode ser descrito por uma função linear decrescente.
 
@@ -56,7 +56,7 @@ A análise qualitativa dessa função permite compreender como variações no te
 
 ---
 
-## 🖥️ 5. Evolução da Computação e Sistemas Embarcados
+## 5. Evolução da Computação e Sistemas Embarcados
 
 O desenvolvimento do MGPEB está diretamente relacionado à evolução da computação. Os primeiros computadores eram grandes, limitados e voltados para cálculos científicos específicos. Com o avanço tecnológico, surgiram sistemas embarcados, projetados para operar em ambientes restritos e com alta confiabilidade.
 
@@ -66,7 +66,7 @@ Dessa forma, a escolha por estruturas de dados lineares e lógica direta não ap
 
 ---
 
-## 🌱 6. Princípios ESG na Base Marciana
+## 6. Princípios ESG na Base Marciana
 
 A implementação de uma colônia em Marte deve considerar não apenas aspectos técnicos, mas também impactos ambientais, sociais e de governança.
 
@@ -78,7 +78,7 @@ Já em relação à governança, é importante estabelecer critérios claros e t
 
 ---
 
-## 🎯 Considerações Finais
+## Considerações Finais
 
 O MGPEB representa um sistema complexo que integra múltiplas áreas do conhecimento, desde lógica computacional até responsabilidade socioambiental. Sua modelagem exige não apenas habilidades técnicas, mas também capacidade de análise crítica e visão sistêmica.
 
